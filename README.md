@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a student at UMFST and an aspiring software developer 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on ESTIEM ORG App and personal stuff
-- 🌱 I’m currently learning **JavaScript/TypeScript**, **React**, **Kotlin**, **C#**
+- 🌱 I’m currently learning **JavaScript/TypeScript**, **React**, **Kotlin**, **C#**, **Swift**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 💼 LinkedIn: https://www.linkedin.com/in/alexandru-andrei-buzas/
