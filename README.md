@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Alex👋
 
 Welcome to my GitHub! I'm a student at UMFST and an aspiring software developer passionate about coding, technology, and creative problem-solving across diverse fields. I'm constantly learning, experimenting, and evolving through my studies and side projects.
 
