@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a student at UMFST and an aspiring software developer 
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on ESTIEM ORG App and personal stuff
+- 🔭 I’m currently working on ESTIEM LG. Tg Mures ORG App and personal stuff
 - 🌱 I’m currently learning **JavaScript/TypeScript**, **React**, **Kotlin**, **C#**, **Swift**
 - 📫 How to reach me: 💼 LinkedIn: https://www.linkedin.com/in/alexandru-andrei-buzas/
 - ⚡ Fun fact: I would like to do something related to F1, it's a surprise at the moment
